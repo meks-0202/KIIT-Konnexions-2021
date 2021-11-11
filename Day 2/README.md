@@ -89,3 +89,10 @@ RST - Reset connection <br/> <br/>
 
 ### Staying Anonymous in Kali Linux
 [How to stay anonmous](https://www.youtube.com/watch?v=VZMHfO9rOCg&list=PLBf0hzazHTGOh6JBKc8WkpyuZgDPW6yTk&ab_channel=HackerSploit)
+
+### Other links to refer
+[Getting familier with linux commands](https://linuxize.com/post/basic-linux-commands/)
+
+[IPv4](https://www.geeksforgeeks.org/what-is-ipv4/) and [IPv6](https://www.geeksforgeeks.org/what-is-ipv6/)
+
+[Subnetting](https://youtu.be/OqsXzkXfwRw)
