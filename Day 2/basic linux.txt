@@ -1,0 +1,41 @@
+KEYBOARD SHORTCUTS : 
+--------------------
+ctrl + A = home 
+ctrl + E = end
+ctrl + F = 1 word forward 
+ctrl + B = 1 word backward 
+ctrl + U = delete entire line 
+ctrl + R = history search
+copy 
+paste 
+terminate
+
+
+
+BASIC LINUX COMMANDS : 
+-----------------------
+pwd
+cd (..		~	-	)
+ls
+cat 
+touch
+cp
+mv 
+mkdir
+rmdir
+rm
+grep
+sudo
+head
+tail
+tac
+more
+less
+chmod 
+history 
+man
+echo
+clear
+cal
+ifconfig/ip a
+whoami
